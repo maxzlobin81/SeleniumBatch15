@@ -153,6 +153,6 @@ so whats the better approach
 1.inspect the webElment of interest  (4 radio buttons) and find the in the dom
 2. write the locator in such a way that it selects all those 4
 3.find all those elements in the code using driver.findElements
-4. loop throght the list and get each WebElment one by one
+4. loop throght the list and get each WebElement one by one
 5. whenever while iterating u go through  figure out which attribute might help u in detecting it is your desired one (by inspecting the variable in DOM)
 5. if u get your desired use if else to click on it.
